@@ -2,7 +2,21 @@
 
 ## Project Overview
 
-This dashboard analyzes sales performance across regions, categories, and products using Power BI.
+This Power BI dashboard provides insights into sales performance, profitability, customer trends, and regional performance using the Superstore dataset.
+
+## Business Problem
+
+Organizations need visibility into:
+
+- Revenue performance
+- Profitability trends
+- Regional sales distribution
+- Product category performance
+- Key business KPIs
+
+This dashboard helps stakeholders make data-driven decisions by presenting critical metrics in an interactive format.
+
+---
 
 ## Tools Used
 
@@ -11,33 +25,74 @@ This dashboard analyzes sales performance across regions, categories, and produc
 - Data Modeling
 - Data Visualization
 
-## Key Metrics
+---
+
+## Dashboard Features
+
+### KPI Cards
 
 - Total Sales
 - Total Profit
 - Total Quantity Sold
+- Profit Margin
 
-## Dashboard Features
+### Sales Analysis
 
-- KPI Cards
-- Sales Trend Analysis
-- Regional Performance Analysis
-- Category Analysis
-- Interactive Filters and Slicers
+- Sales Trends
+- Category Performance
+- Sub-Category Performance
 
-## Business Insights
+### Regional Analysis
 
-- West region generated the highest revenue.
-- Technology products contributed the highest sales.
-- Profitability varied significantly across regions.
+- Region-wise Sales
+- Region-wise Profitability
 
-## Files
+### Interactive Features
 
-- Dashboard/SUPERSTORE.pbix
-- Dataset/SampleSuperstore.csv
+- Slicers
+- Filters
+- Drill-down Analysis
 
-## Screenshots
+---
 
-### Dashboard Overview
+## Key Business Insights
+
+### Revenue
+
+- Technology generated the highest revenue.
+- Phones were among the top-selling products.
+
+### Profitability
+
+- Copiers generated the highest profit.
+- Tables showed negative profitability despite strong sales.
+
+### Regional Performance
+
+- West region generated the highest sales and profit.
+- Central region showed the lowest profit margin.
+
+---
+
+## Dashboard Preview
+
+### Main Dashboard
 
 ![Dashboard](Screenshot/Dashboard.png)
+
+---
+
+## Project Files
+
+- SUPERSTORE.pbix
+- Sample Superstore Dataset
+- Dashboard Screenshots
+
+---
+
+## Author
+
+Simran Sonawane
+
+GitHub:
+https://github.com/simransonawane24
