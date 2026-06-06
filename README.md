@@ -40,4 +40,4 @@ This dashboard analyzes sales performance across regions, categories, and produc
 
 ### Dashboard Overview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
